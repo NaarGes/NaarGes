@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Narges Sadeghi 
+- 👀 I’m interested in Flutter 💙
+- 🌱 I’m currently learning UI/UX Design
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 This is my [email](mailto:narges.sadeghi73@gmail.com) and [Linkedin](https://www.linkedin.com/in/nargessadeghi/)
